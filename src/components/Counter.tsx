@@ -40,7 +40,6 @@ const Counter = () => {
             <button onClick={decrementHandler}>Decrement</button>
           </div>
         )}
-        image.png
         <button onClick={toggleHandler}>Toggle Counter</button>
       </header>
     </div>
